@@ -11,8 +11,8 @@ I don't completely understand the data collected, I thought I would actually see
 
 The following are my screenshots showing the steps I took to set up the honeypot and attack it.
 
-<img src="Milestone 1.png" width="800">
-<img src="Milestone 3.png" width="800">
+<img src="Milestone 1.PNG" width="800">
+<img src="Milestone 3.PNG" width="800">
 <img src="Milestone 4.png" width="800">
-<img src="Milestone 4 Part 2.png" width="800">
+<img src="Milestone 4 Part 2.PNG" width="800">
 <img src="Milestone 5.png" width="800">
